@@ -1,0 +1,246 @@
+[20-Jul-2018 07:50:01 UTC] PHP Fatal error:  require(): Failed opening required '/home/shareadsco/public_html/application/libraries/excel_reader/php-excel-reader/excel_reader2.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/shareadsco/public_html/application/modules/admin/controllers/Users.php on line 666
+[20-Jul-2018 07:50:05 UTC] PHP Fatal error:  require(): Failed opening required '/home/shareadsco/public_html/application/libraries/excel_reader/php-excel-reader/excel_reader2.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/shareadsco/public_html/application/modules/admin/controllers/Users.php on line 666
+[20-Jul-2018 07:52:05 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/shareadsco/public_html/application/libraries/excel_reader/SpreadsheetReader_XLSX.php on line 217
+[20-Jul-2018 07:52:14 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/shareadsco/public_html/application/libraries/excel_reader/SpreadsheetReader_XLSX.php on line 217
+[20-Jul-2018 07:54:02 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/shareadsco/public_html/application/libraries/excel_reader/SpreadsheetReader_XLSX.php on line 217
+[20-Jul-2018 07:55:14 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/shareadsco/public_html/application/libraries/excel_reader/SpreadsheetReader_XLSX.php on line 217
+[20-Jul-2018 08:02:06 UTC] PHP Fatal error:  require_once(): Failed opening required '../../../libraries/excel_reader/php-excel-reader/excel_reader2.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/shareadsco/public_html/application/modules/admin/controllers/Users.php on line 669
+[20-Jul-2018 09:40:16 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/shareadsco/public_html/application/libraries/excel_reader/SpreadsheetReader_XLSX.php on line 217
+[20-Jul-2018 09:40:54 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/shareadsco/public_html/application/libraries/excel_reader/SpreadsheetReader_XLSX.php on line 217
+[20-Jul-2018 09:43:06 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/shareadsco/public_html/application/libraries/excel_reader/SpreadsheetReader_XLSX.php on line 217
+[20-Jul-2018 09:46:17 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/shareadsco/public_html/application/libraries/excel_reader/SpreadsheetReader_XLSX.php on line 217
+[20-Jul-2018 09:55:50 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/shareadsco/public_html/application/libraries/excel_reader/SpreadsheetReader_XLSX.php on line 217
+[20-Jul-2018 09:57:34 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/shareadsco/public_html/application/libraries/excel_reader/SpreadsheetReader_XLSX.php on line 217
+[24-Jul-2018 10:57:28 UTC] PHP Fatal error:  Call to undefined method Tracking_model::getProductIdFromUrl() in /home/shareadsco/public_html/application/modules/tracking/controllers/Tracking.php on line 97
+[24-Jul-2018 11:00:55 UTC] PHP Fatal error:  Call to undefined method Tracking_model::getProductIdFromUrl() in /home/shareadsco/public_html/application/modules/tracking/controllers/Tracking.php on line 97
+[24-Jul-2018 11:01:20 UTC] PHP Fatal error:  Call to undefined method Tracking_model::getProductIdFromUrl() in /home/shareadsco/public_html/application/modules/tracking/controllers/Tracking.php on line 97
+[24-Jul-2018 11:02:00 UTC] PHP Fatal error:  Call to undefined method Tracking_model::getProductIdFromUrl() in /home/shareadsco/public_html/application/modules/tracking/controllers/Tracking.php on line 97
+[24-Jul-2018 11:02:27 UTC] PHP Fatal error:  Call to undefined method Tracking_model::getProductIdFromUrl() in /home/shareadsco/public_html/application/modules/tracking/controllers/Tracking.php on line 97
+[24-Jul-2018 11:03:11 UTC] PHP Fatal error:  Call to undefined method Tracking_model::getProductIdFromUrl() in /home/shareadsco/public_html/application/modules/tracking/controllers/Tracking.php on line 97
+[26-Jul-2018 08:23:26 UTC] PHP Fatal error:  Call to undefined method Invoices_model::loadListings() in /home/shareadsco/public_html/application/modules/invoices/controllers/Invoices.php on line 30
+[26-Jul-2018 09:48:03 UTC] PHP Fatal error:  Call to undefined method Invoices::_gen_pdf() in /home/shareadsco/public_html/application/modules/invoices/controllers/Invoices.php on line 35
+[26-Jul-2018 09:49:27 UTC] PHP Fatal error:  Call to undefined method Common::print_header_report() in /home/shareadsco/public_html/application/modules/invoices/controllers/Invoices.php on line 65
+[27-Jul-2018 05:36:12 UTC] PHP Fatal error:  Call to a member function Output() on null in /home/shareadsco/public_html/application/modules/invoices/controllers/Invoices.php on line 62
+[27-Jul-2018 05:38:03 UTC] PHP Fatal error:  Call to a member function Output() on null in /home/shareadsco/public_html/application/modules/invoices/controllers/Invoices.php on line 62
+[27-Jul-2018 05:38:58 UTC] PHP Fatal error:  Call to a member function Output() on null in /home/shareadsco/public_html/application/modules/invoices/controllers/Invoices.php on line 62
+[27-Jul-2018 09:57:39 UTC] PHP Fatal error:  Call to a member function result() on null in /home/shareadsco/public_html/application/modules/invoices/views/invoice_view.php on line 19
+[27-Jul-2018 09:58:15 UTC] PHP Fatal error:  Call to a member function result() on null in /home/shareadsco/public_html/application/modules/invoices/views/invoice_view.php on line 19
+[30-Jul-2018 10:04:29 UTC] PHP Fatal error:  Call to a member function getTotalCommission() on null in /home/shareadsco/public_html/application/modules/wallet/controllers/Wallet.php on line 44
+[30-Jul-2018 10:04:55 UTC] PHP Fatal error:  Call to a member function getTotalCommission() on null in /home/shareadsco/public_html/application/modules/wallet/controllers/Wallet.php on line 44
+[31-Jul-2018 07:12:30 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/shareadsco/public_html/application/modules/wallet/views/wallet.php on line 47
+[31-Jul-2018 07:13:00 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/shareadsco/public_html/application/modules/wallet/views/wallet.php on line 4
+[31-Jul-2018 07:13:45 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/shareadsco/public_html/application/modules/wallet/views/wallet.php on line 4
+[31-Jul-2018 07:14:19 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/shareadsco/public_html/application/modules/wallet/views/wallet.php on line 4
+[31-Jul-2018 07:14:42 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/shareadsco/public_html/application/modules/wallet/views/wallet.php on line 47
+[31-Jul-2018 07:16:10 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/shareadsco/public_html/application/modules/wallet/views/wallet.php on line 47
+[31-Jul-2018 07:25:54 UTC] PHP Fatal error:  Unsupported operand types in /home/shareadsco/public_html/application/modules/wallet/views/wallet.php on line 20
+[31-Jul-2018 10:08:11 UTC] PHP Fatal error:  Call to undefined method commission_model::get_all_withdraws() in /home/shareadsco/public_html/application/modules/admin/controllers/Commission.php on line 91
+[31-Jul-2018 11:15:25 UTC] PHP Fatal error:  Call to undefined function ucfisrt() in /home/shareadsco/public_html/application/modules/admin/views/commission/withdraw_listing.php on line 105
+[31-Jul-2018 11:15:30 UTC] PHP Fatal error:  Call to undefined function ucfisrt() in /home/shareadsco/public_html/application/modules/admin/views/commission/withdraw_listing.php on line 105
+[31-Jul-2018 11:16:46 UTC] PHP Fatal error:  Call to undefined function ucfisrt() in /home/shareadsco/public_html/application/modules/admin/views/commission/withdraw_listing.php on line 105
+[31-Jul-2018 11:17:46 UTC] PHP Fatal error:  Call to undefined function ucfisrt() in /home/shareadsco/public_html/application/modules/admin/views/commission/withdraw_listing.php on line 112
+[31-Jul-2018 11:44:33 UTC] PHP Fatal error:  Call to a member function get_all_withdraws() on null in /home/shareadsco/public_html/application/modules/admin/controllers/Commission.php on line 106
+[31-Jul-2018 11:44:56 UTC] PHP Fatal error:  Call to a member function get_all_withdraws() on null in /home/shareadsco/public_html/application/modules/admin/controllers/Commission.php on line 106
+[31-Jul-2018 11:45:48 UTC] PHP Fatal error:  Call to a member function get_all_withdraws() on null in /home/shareadsco/public_html/application/modules/admin/controllers/Commission.php on line 106
+[31-Jul-2018 12:31:28 UTC] PHP Fatal error:  Call to undefined function getWithdraw() in /home/shareadsco/public_html/application/modules/admin/controllers/Commission.php on line 100
+[31-Jul-2018 12:31:52 UTC] PHP Fatal error:  Call to undefined function getWithdraw() in /home/shareadsco/public_html/application/modules/admin/controllers/Commission.php on line 100
+[31-Jul-2018 13:54:25 UTC] PHP Fatal error:  Cannot redeclare commission_model::$tbl in /home/shareadsco/public_html/application/modules/admin/models/Commission_model.php on line 12
+[31-Jul-2018 13:55:06 UTC] PHP Fatal error:  Cannot redeclare commission_model::$tbl in /home/shareadsco/public_html/application/modules/admin/models/Commission_model.php on line 12
+[31-Jul-2018 13:57:26 UTC] PHP Fatal error:  Cannot redeclare commission_model::$tbl in /home/shareadsco/public_html/application/modules/admin/models/Commission_model.php on line 12
+[31-Jul-2018 13:57:56 UTC] PHP Fatal error:  Cannot redeclare commission_model::$tbl in /home/shareadsco/public_html/application/modules/admin/models/Commission_model.php on line 12
+[31-Jul-2018 13:57:58 UTC] PHP Fatal error:  Cannot redeclare commission_model::$tbl in /home/shareadsco/public_html/application/modules/admin/models/Commission_model.php on line 12
+[31-Jul-2018 13:58:29 UTC] PHP Fatal error:  Cannot redeclare commission_model::$tbl in /home/shareadsco/public_html/application/modules/admin/models/Commission_model.php on line 12
+[01-Aug-2018 06:01:20 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/shareadsco/public_html/application/modules/admin/views/commission/listing_detail_withdraw.php on line 110
+[01-Aug-2018 06:01:42 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/shareadsco/public_html/application/modules/admin/views/commission/listing_detail_withdraw.php on line 110
+[01-Aug-2018 06:55:37 UTC] PHP Fatal error:  Call to undefined function random_string() in /home/shareadsco/public_html/application/modules/admin/controllers/Commission.php on line 186
+[01-Aug-2018 06:57:09 UTC] PHP Fatal error:  Call to undefined function random_string() in /home/shareadsco/public_html/application/modules/admin/controllers/Commission.php on line 189
+[01-Aug-2018 06:58:38 UTC] PHP Fatal error:  Call to undefined function random_string() in /home/shareadsco/public_html/application/modules/admin/controllers/Commission.php on line 190
+[01-Aug-2018 06:58:48 UTC] PHP Fatal error:  Call to undefined function random_string() in /home/shareadsco/public_html/application/modules/admin/controllers/Commission.php on line 190
+[01-Aug-2018 07:00:50 UTC] PHP Fatal error:  Call to undefined function random_string() in /home/shareadsco/public_html/application/modules/admin/controllers/Commission.php on line 190
+[01-Aug-2018 07:00:59 UTC] PHP Fatal error:  Call to undefined function random_string() in /home/shareadsco/public_html/application/modules/admin/controllers/Commission.php on line 190
+[01-Aug-2018 07:01:51 UTC] PHP Fatal error:  Method name must be a string in /home/shareadsco/public_html/application/modules/admin/controllers/Commission.php on line 198
+[01-Aug-2018 07:42:54 UTC] PHP Fatal error:  Call to undefined method commission_model::UpdateWireTransferWithdraw() in /home/shareadsco/public_html/application/modules/admin/controllers/Commission.php on line 141
+[01-Aug-2018 07:43:08 UTC] PHP Fatal error:  Call to undefined method commission_model::UpdateWireTransferWithdraw() in /home/shareadsco/public_html/application/modules/admin/controllers/Commission.php on line 141
+[01-Aug-2018 07:43:15 UTC] PHP Fatal error:  Call to undefined method commission_model::UpdateWireTransferWithdraw() in /home/shareadsco/public_html/application/modules/admin/controllers/Commission.php on line 141
+[01-Aug-2018 07:43:26 UTC] PHP Fatal error:  Call to undefined method commission_model::UpdateWireTransferWithdraw() in /home/shareadsco/public_html/application/modules/admin/controllers/Commission.php on line 141
+[01-Aug-2018 11:36:41 UTC] PHP Fatal error:  Cannot use object of type CURLFile as array in /home/shareadsco/public_html/application/libraries/Emailutility.php on line 83
+[02-Aug-2018 06:03:35 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/shareadsco/public_html/application/libraries/excel_reader/SpreadsheetReader_XLSX.php on line 217
+[07-Aug-2018 06:52:58 UTC] PHP Parse error:  syntax error, unexpected '"' in /home/shareadsco/public_html/application/modules/wallet/models/Wallet_model.php on line 45
+[07-Aug-2018 06:53:05 UTC] PHP Parse error:  syntax error, unexpected '"' in /home/shareadsco/public_html/application/modules/wallet/models/Wallet_model.php on line 45
+[08-Aug-2018 10:57:30 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/shareadsco/public_html/application/modules/cron/controllers/Cron.php on line 87
+[08-Aug-2018 10:57:39 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/shareadsco/public_html/application/modules/cron/controllers/Cron.php on line 87
+[10-Aug-2018 13:28:50 UTC] PHP Fatal error:  Class 'Api_model' not found in /home/shareadsco/public_html/application/third_party/MX/Loader.php on line 228
+[10-Aug-2018 13:28:50 UTC] PHP Fatal error:  Class 'Api_model' not found in /home/shareadsco/public_html/application/third_party/MX/Loader.php on line 228
+[10-Aug-2018 13:28:50 UTC] PHP Fatal error:  Class 'Api_model' not found in /home/shareadsco/public_html/application/third_party/MX/Loader.php on line 228
+[15-Aug-2018 10:22:06 UTC] PHP Fatal error:  Unsupported operand types in /home/shareadsco/public_html/application/helpers/global_helper.php on line 942
+[15-Aug-2018 10:22:09 UTC] PHP Fatal error:  Unsupported operand types in /home/shareadsco/public_html/application/helpers/global_helper.php on line 942
+[27-Aug-2018 12:46:56 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::count() in /home/shareadsco/public_html/application/modules/api/controllers/Api.php on line 1579
+[27-Aug-2018 13:24:05 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::count() in /home/shareadsco/public_html/application/modules/api/controllers/Api.php on line 1579
+[30-Aug-2018 09:54:24 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/shareadsco/public_html/application/libraries/excel_reader/SpreadsheetReader_XLSX.php on line 217
+[31-Aug-2018 05:45:03 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/shareadsco/public_html/application/libraries/excel_reader/SpreadsheetReader_XLSX.php on line 217
+[31-Aug-2018 05:53:57 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/shareadsco/public_html/application/libraries/excel_reader/SpreadsheetReader_XLSX.php on line 217
+[31-Aug-2018 06:13:48 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/shareadsco/public_html/application/libraries/excel_reader/SpreadsheetReader_XLSX.php on line 217
+[31-Aug-2018 06:14:18 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/shareadsco/public_html/application/libraries/excel_reader/SpreadsheetReader_XLSX.php on line 217
+[31-Aug-2018 06:18:06 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/shareadsco/public_html/application/libraries/excel_reader/SpreadsheetReader_XLSX.php on line 217
+[31-Aug-2018 06:23:12 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/shareadsco/public_html/application/libraries/excel_reader/SpreadsheetReader_XLSX.php on line 217
+[31-Aug-2018 06:30:02 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/shareadsco/public_html/application/libraries/excel_reader/SpreadsheetReader_XLSX.php on line 217
+[31-Aug-2018 06:30:48 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/shareadsco/public_html/application/libraries/excel_reader/SpreadsheetReader_XLSX.php on line 217
+[31-Aug-2018 06:32:56 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/shareadsco/public_html/application/libraries/excel_reader/SpreadsheetReader_XLSX.php on line 217
+[31-Aug-2018 06:40:54 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/shareadsco/public_html/application/libraries/excel_reader/SpreadsheetReader_XLSX.php on line 217
+[31-Aug-2018 06:41:21 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/shareadsco/public_html/application/libraries/excel_reader/SpreadsheetReader_XLSX.php on line 217
+[31-Aug-2018 06:41:50 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/shareadsco/public_html/application/libraries/excel_reader/SpreadsheetReader_XLSX.php on line 217
+[31-Aug-2018 06:43:21 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/shareadsco/public_html/application/libraries/excel_reader/SpreadsheetReader_XLSX.php on line 217
+[31-Aug-2018 06:44:31 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/shareadsco/public_html/application/libraries/excel_reader/SpreadsheetReader_XLSX.php on line 217
+[31-Aug-2018 06:44:35 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/shareadsco/public_html/application/libraries/excel_reader/SpreadsheetReader_XLSX.php on line 217
+[31-Aug-2018 06:45:01 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/shareadsco/public_html/application/libraries/excel_reader/SpreadsheetReader_XLSX.php on line 217
+[31-Aug-2018 06:52:57 UTC] PHP Fatal error:  Function name must be a string in /home/shareadsco/public_html/application/modules/admin/controllers/Users.php on line 678
+[31-Aug-2018 06:53:14 UTC] PHP Fatal error:  Function name must be a string in /home/shareadsco/public_html/application/modules/admin/controllers/Users.php on line 678
+[31-Aug-2018 06:53:54 UTC] PHP Fatal error:  Call to a member function result_array() on array in /home/shareadsco/public_html/application/libraries/Excel_xml.php on line 16
+[31-Aug-2018 06:55:57 UTC] PHP Fatal error:  require(): Failed opening required '/home/shareadsco/public_html/application/libraries/PHPExcel/Autoloader.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/shareadsco/public_html/application/libraries/PHPExcel.php on line 32
+[31-Aug-2018 07:07:26 UTC] PHP Fatal error:  require_once(): Failed opening required 'OLERead.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/shareadsco/public_html/application/libraries/Spreadsheet_Excel_Reader.php on line 31
+[31-Aug-2018 07:08:46 UTC] PHP Fatal error:  require_once(): Failed opening required 'OLERead.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/shareadsco/public_html/application/libraries/Spreadsheet_Excel_Reader.php on line 31
+[31-Aug-2018 07:08:57 UTC] PHP Fatal error:  require_once(): Failed opening required 'OLERead.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/shareadsco/public_html/application/libraries/Spreadsheet_Excel_Reader.php on line 31
+[31-Aug-2018 07:10:29 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/shareadsco/public_html/application//libraries/OLERead.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/shareadsco/public_html/application/libraries/Spreadsheet_Excel_Reader.php on line 32
+[31-Aug-2018 14:47:52 UTC] PHP Fatal error:  Cannot unset string offsets in /home/shareadsco/public_html/application/modules/api/controllers/Api.php on line 623
+[31-Aug-2018 14:54:59 UTC] PHP Fatal error:  Cannot unset string offsets in /home/shareadsco/public_html/application/modules/api/controllers/Api.php on line 624
+[31-Aug-2018 15:03:54 UTC] PHP Fatal error:  Cannot use object of type CI_DB_mysqli_result as array in /home/shareadsco/public_html/application/modules/marketing/controllers/Marketing.php on line 31
+[31-Aug-2018 15:06:28 UTC] PHP Fatal error:  Call to a member function num_rows() on array in /home/shareadsco/public_html/application/modules/marketing/views/marketing.php on line 56
+[31-Aug-2018 15:06:58 UTC] PHP Fatal error:  Call to a member function num_rows() on array in /home/shareadsco/public_html/application/modules/marketing/views/marketing.php on line 56
+[31-Aug-2018 15:07:21 UTC] PHP Fatal error:  Call to a member function num_rows() on array in /home/shareadsco/public_html/application/modules/marketing/views/marketing.php on line 56
+[31-Aug-2018 15:07:41 UTC] PHP Fatal error:  Call to a member function num_rows() on array in /home/shareadsco/public_html/application/modules/marketing/views/marketing.php on line 56
+[01-Sep-2018 05:26:35 UTC] PHP Fatal error:  Call to a member function num_rows() on array in /home/shareadsco/public_html/application/modules/marketing/controllers/Marketing.php on line 28
+[01-Sep-2018 05:27:01 UTC] PHP Fatal error:  Call to a member function num_rows() on array in /home/shareadsco/public_html/application/modules/marketing/controllers/Marketing.php on line 28
+[01-Sep-2018 05:29:08 UTC] PHP Fatal error:  Call to a member function num_rows() on array in /home/shareadsco/public_html/application/modules/marketing/controllers/Marketing.php on line 29
+[01-Sep-2018 05:33:13 UTC] PHP Fatal error:  Call to a member function result() on array in /home/shareadsco/public_html/application/modules/marketing/views/marketing.php on line 67
+[01-Sep-2018 05:33:32 UTC] PHP Fatal error:  Call to undefined method stdClass::result() in /home/shareadsco/public_html/application/modules/marketing/views/marketing.php on line 67
+[03-Sep-2018 14:06:38 UTC] PHP Fatal error:  Class 'Api_model' not found in /home/shareadsco/public_html/application/third_party/MX/Loader.php on line 228
+[04-Sep-2018 11:27:40 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/shareadsco/public_html/application/modules/dashboard/models/Dashboard_model.php on line 451
+[06-Sep-2018 07:27:32 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::results() in /home/shareadsco/public_html/application/modules/invoices/controllers/Invoices.php on line 36
+[06-Sep-2018 10:22:30 UTC] PHP Fatal error:  Call to undefined function getVal() in /home/shareadsco/public_html/application/libraries/Engineinit.php on line 129
+[10-Sep-2018 10:27:54 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/shareadsco/public_html/application/modules/products/models/Products_model.php on line 97
+[10-Sep-2018 10:28:00 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/shareadsco/public_html/application/modules/products/models/Products_model.php on line 97
+[10-Sep-2018 10:31:19 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/shareadsco/public_html/application/modules/admin/models/Listings_model.php on line 116
+[10-Sep-2018 10:32:24 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/shareadsco/public_html/application/modules/admin/models/Listings_model.php on line 116
+[11-Sep-2018 13:37:27 UTC] PHP Fatal error:  Class 'Wallet_model' not found in /home/shareadsco/public_html/application/third_party/MX/Loader.php on line 228
+[11-Sep-2018 14:15:53 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/shareadsco/public_html/application/modules/wallet/controllers/Wallet.php on line 103
+[11-Sep-2018 14:15:56 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/shareadsco/public_html/application/modules/wallet/controllers/Wallet.php on line 103
+[12-Sep-2018 08:12:09 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/shareadsco/public_html/application/modules/wallet/models/Wallet_model.php on line 82
+[12-Sep-2018 13:13:44 Asia/Karachi] PHP Fatal error:  Cannot use object of type stdClass as array in /home/shareadsco/public_html/application/modules/wallet/models/Wallet_model.php on line 82
+[12-Sep-2018 08:14:10 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/shareadsco/public_html/application/modules/wallet/models/Wallet_model.php on line 82
+[12-Sep-2018 13:14:38 Asia/Karachi] PHP Fatal error:  Cannot use object of type stdClass as array in /home/shareadsco/public_html/application/modules/wallet/models/Wallet_model.php on line 82
+[12-Sep-2018 08:14:56 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/shareadsco/public_html/application/modules/wallet/models/Wallet_model.php on line 82
+[12-Sep-2018 13:15:36 Asia/Karachi] PHP Fatal error:  Cannot use object of type stdClass as array in /home/shareadsco/public_html/application/modules/wallet/models/Wallet_model.php on line 82
+[12-Sep-2018 08:15:48 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/shareadsco/public_html/application/modules/wallet/models/Wallet_model.php on line 82
+[12-Sep-2018 13:14:41 UTC] PHP Fatal error:  Cannot use object of type mysqli as array in /home/shareadsco/public_html/application/modules/admin/controllers/Newsletter.php on line 88
+[12-Sep-2018 13:28:39 UTC] PHP Fatal error:  Cannot use object of type mysqli as array in /home/shareadsco/public_html/application/modules/admin/controllers/Newsletter.php on line 88
+[12-Sep-2018 13:29:09 UTC] PHP Fatal error:  Cannot use object of type mysqli as array in /home/shareadsco/public_html/application/modules/admin/controllers/Newsletter.php on line 88
+[12-Sep-2018 13:41:25 UTC] PHP Fatal error:  Cannot use object of type mysqli as array in /home/shareadsco/public_html/application/modules/admin/controllers/Newsletter.php on line 88
+[12-Sep-2018 18:43:58 Asia/Karachi] PHP Fatal error:  Cannot use object of type mysqli as array in /home/shareadsco/public_html/application/modules/admin/controllers/Newsletter.php on line 88
+[12-Sep-2018 13:45:08 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/shareadsco/public_html/application/helpers/global_helper.php on line 590
+[12-Sep-2018 13:45:11 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/shareadsco/public_html/application/helpers/global_helper.php on line 590
+[12-Sep-2018 13:45:13 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/shareadsco/public_html/application/helpers/global_helper.php on line 590
+[12-Sep-2018 13:45:15 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/shareadsco/public_html/application/helpers/global_helper.php on line 590
+[12-Sep-2018 13:45:21 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/shareadsco/public_html/application/helpers/global_helper.php on line 590
+[12-Sep-2018 13:45:22 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/shareadsco/public_html/application/helpers/global_helper.php on line 590
+[12-Sep-2018 19:06:01 Asia/Karachi] PHP Fatal error:  Cannot use object of type mysqli as array in /home/shareadsco/public_html/application/modules/admin/controllers/Newsletter.php on line 91
+[12-Sep-2018 14:40:59 UTC] PHP Fatal error:  Call to a member function getTotalCommissionOrders() on null in /home/shareadsco/public_html/application/modules/api/controllers/Api.php on line 1403
+[12-Sep-2018 19:41:15 Asia/Karachi] PHP Fatal error:  Call to a member function getTotalCommissionOrders() on null in /home/shareadsco/public_html/application/modules/api/controllers/Api.php on line 1403
+[12-Sep-2018 19:16:55 UTC] PHP Parse error:  syntax error, unexpected '$totalCommission_bk' (T_VARIABLE), expecting ',' or ';' in /home/shareadsco/public_html/application/modules/wallet/controllers/Wallet.php on line 72
+[13-Sep-2018 00:20:43 Asia/Karachi] PHP Fatal error:  Call to undefined function getLastsWidthdraw() in /home/shareadsco/public_html/application/modules/wallet/controllers/Wallet.php on line 41
+[12-Sep-2018 19:56:49 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/shareadsco/public_html/application/modules/api/controllers/Api.php on line 1343
+[17-Sep-2018 14:35:22 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/shareadsco/public_html/application/modules/dashboard/controllers/Dashboard.php on line 208
+[17-Sep-2018 14:36:12 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/shareadsco/public_html/application/modules/dashboard/controllers/Dashboard.php on line 208
+[17-Sep-2018 14:36:21 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/shareadsco/public_html/application/modules/dashboard/controllers/Dashboard.php on line 208
+[17-Sep-2018 14:37:51 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/shareadsco/public_html/application/modules/dashboard/controllers/Dashboard.php on line 209
+[17-Sep-2018 14:37:53 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/shareadsco/public_html/application/modules/dashboard/controllers/Dashboard.php on line 209
+[17-Sep-2018 14:37:58 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/shareadsco/public_html/application/modules/dashboard/controllers/Dashboard.php on line 209
+[17-Sep-2018 14:38:02 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/shareadsco/public_html/application/modules/dashboard/controllers/Dashboard.php on line 209
+[17-Sep-2018 14:38:39 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/shareadsco/public_html/application/modules/dashboard/controllers/Dashboard.php on line 209
+[17-Sep-2018 14:38:44 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/shareadsco/public_html/application/modules/dashboard/controllers/Dashboard.php on line 209
+[17-Sep-2018 14:39:07 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/shareadsco/public_html/application/modules/dashboard/controllers/Dashboard.php on line 209
+[17-Sep-2018 14:39:29 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/shareadsco/public_html/application/modules/dashboard/controllers/Dashboard.php on line 209
+[17-Sep-2018 14:40:18 UTC] PHP Fatal error:  Call to a member function updatePaypalEmail() on null in /home/shareadsco/public_html/application/modules/dashboard/controllers/Dashboard.php on line 242
+[17-Sep-2018 14:42:54 UTC] PHP Fatal error:  Call to a member function updatePaypalEmail() on null in /home/shareadsco/public_html/application/modules/dashboard/controllers/Dashboard.php on line 243
+[18-Sep-2018 05:49:49 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/shareadsco/public_html/application/modules/dashboard/controllers/Dashboard.php on line 211
+[18-Sep-2018 05:49:54 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/shareadsco/public_html/application/modules/dashboard/controllers/Dashboard.php on line 211
+[05-Oct-2018 17:20:07 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/shareadsco/public_html/application/modules/tracking/controllers/Tracking.php on line 66
+[08-Oct-2018 13:38:01 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/shareadsco/public_html/application/modules/admin/views/users/advertiser_detail.php on line 52
+[08-Oct-2018 14:53:37 UTC] PHP Fatal error:  Call to a member function result() on null in /home/shareadsco/public_html/application/modules/admin/views/commission/listing.php on line 11
+[10-Oct-2018 07:13:53 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/shareadsco/public_html/application/modules/dashboard/controllers/Dashboard.php on line 59
+[10-Oct-2018 07:46:09 UTC] PHP Fatal error:  Class 'Dashboard_model' not found in /home/shareadsco/public_html/application/third_party/MX/Loader.php on line 228
+[11-Oct-2018 06:13:30 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/shareadsco/public_html/application/modules/admin/views/reports/listing_ads_report.php on line 71
+[11-Oct-2018 06:16:46 UTC] PHP Parse error:  syntax error, unexpected '"><label class="' (T_CONSTANT_ENCAPSED_STRING) in /home/shareadsco/public_html/application/modules/admin/views/reports/listing_ads_report.php on line 89
+[16-Oct-2018 10:47:56 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/shareadsco/public_html/application/modules/admin/controllers/Users.php on line 32
+[16-Oct-2018 10:47:59 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/shareadsco/public_html/application/modules/admin/controllers/Users.php on line 32
+[16-Oct-2018 10:54:53 UTC] PHP Fatal error:  require(): Failed opening required '../../../libraries/php-inet6_1.0.2/inet6.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/shareadsco/public_html/application/modules/admin/controllers/Users.php on line 31
+[16-Oct-2018 10:56:01 UTC] PHP Fatal error:  Call to undefined function gmp_init() in /home/shareadsco/public_html/application/libraries/php-inet6_1.0.2/inet6.php on line 160
+[16-Oct-2018 10:56:14 UTC] PHP Fatal error:  Call to undefined function gmp_init() in /home/shareadsco/public_html/application/libraries/php-inet6_1.0.2/inet6.php on line 160
+[16-Oct-2018 10:56:41 UTC] PHP Fatal error:  Call to undefined function gmp_init() in /home/shareadsco/public_html/application/libraries/php-inet6_1.0.2/inet6.php on line 160
+[17-Oct-2018 12:34:25 UTC] PHP Parse error:  syntax error, unexpected ''"><img alt="" height="50" src' (T_ENCAPSED_AND_WHITESPACE) in /home/shareadsco/public_html/application/helpers/global_helper.php on line 605
+[19-Oct-2018 13:36:35 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/shareadsco/public_html/application/modules/admin/views/commission/invoices_listing.php on line 72
+[19-Oct-2018 13:36:48 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/shareadsco/public_html/application/modules/admin/views/commission/invoices_listing.php on line 72
+[19-Oct-2018 14:10:04 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::count_all_results() in /home/shareadsco/public_html/application/modules/products/views/view_commisions.php on line 54
+[22-Oct-2018 05:55:36 UTC] PHP Fatal error:  Call to undefined function get_unique_device() in /home/shareadsco/public_html/application/modules/home/controllers/Home.php on line 83
+[06-Nov-2018 11:23:38 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on array in /home/shareadsco/public_html/application/modules/api/controllers/Api.php on line 1879
+[06-Nov-2018 11:23:58 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on array in /home/shareadsco/public_html/application/modules/api/controllers/Api.php on line 1879
+[06-Nov-2018 11:24:09 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on array in /home/shareadsco/public_html/application/modules/api/controllers/Api.php on line 1879
+[06-Nov-2018 11:25:07 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on array in /home/shareadsco/public_html/application/modules/api/controllers/Api.php on line 1875
+[06-Nov-2018 11:25:10 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on array in /home/shareadsco/public_html/application/modules/api/controllers/Api.php on line 1875
+[06-Nov-2018 11:26:12 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on array in /home/shareadsco/public_html/application/modules/api/controllers/Api.php on line 1875
+[07-Nov-2018 12:56:14 Asia/Karachi] PHP Fatal error:  Call to undefined method Api_model::get_allcmspageLinks() in /home/shareadsco/public_html/application/modules/api/controllers/Api.php on line 1929
+[11-Jan-2019 14:48:45 Asia/Karachi] PHP Fatal error:  Call to a member function accountVarification() on null in /home/shareadsco/public_html/application/modules/home/controllers/Home.php on line 149
+[11-Jan-2019 14:51:18 Asia/Karachi] PHP Fatal error:  Call to a member function accountVarification() on null in /home/shareadsco/public_html/application/modules/home/controllers/Home.php on line 149
+[11-Jan-2019 14:52:23 Asia/Karachi] PHP Fatal error:  Call to a member function accountVarification() on null in /home/shareadsco/public_html/application/modules/home/controllers/Home.php on line 152
+[11-Jan-2019 10:06:17 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/shareadsco/public_html/application/modules/home/controllers/Home.php on line 229
+[31-Jan-2019 21:28:38 Asia/Karachi] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 290352 bytes) in /home/shareadsco/public_html/application/libraries/MPDF54/Mpdf.php on line 12799
+[10-Jul-2019 11:25:30 UTC] PHP Fatal error:  Call to undefined function iconv() in /home/shareadsco/public_html/application/modules/login/controllers/Login.php on line 506
+[10-Jul-2019 11:33:28 UTC] PHP Fatal error:  Call to undefined function iconv() in /home/shareadsco/public_html/application/modules/login/controllers/Login.php on line 722
+[10-Jul-2019 11:42:45 UTC] PHP Fatal error:  Call to undefined function iconv() in /home/shareadsco/public_html/application/modules/login/controllers/Login.php on line 506
+[10-Jul-2019 11:43:11 UTC] PHP Fatal error:  Call to undefined function iconv() in /home/shareadsco/public_html/application/modules/login/controllers/Login.php on line 506
+[10-Jul-2019 11:44:41 UTC] PHP Fatal error:  Call to undefined function iconv() in /home/shareadsco/public_html/application/modules/login/controllers/Login.php on line 722
+[10-Jul-2019 13:07:34 UTC] PHP Fatal error:  Call to undefined function iconv() in /home/shareadsco/public_html/application/modules/login/controllers/Login.php on line 506
+[10-Jul-2019 20:46:34 UTC] PHP Fatal error:  Call to undefined function iconv() in /home/shareadsco/public_html/application/modules/login/controllers/Login.php on line 506
+[11-Jul-2019 04:12:03 UTC] PHP Fatal error:  Call to undefined function iconv() in /home/shareadsco/public_html/application/modules/register/models/Register_model.php on line 42
+[11-Jul-2019 13:07:52 UTC] PHP Fatal error:  Call to undefined function iconv() in /home/shareadsco/public_html/application/modules/login/controllers/Login.php on line 506
+[11-Jul-2019 13:08:21 UTC] PHP Fatal error:  Call to undefined function iconv() in /home/shareadsco/public_html/application/modules/login/controllers/Login.php on line 506
+[11-Jul-2019 13:08:51 UTC] PHP Fatal error:  Call to undefined function iconv() in /home/shareadsco/public_html/application/modules/login/controllers/Login.php on line 722
+[11-Jul-2019 13:13:35 UTC] PHP Fatal error:  Call to undefined function iconv() in /home/shareadsco/public_html/application/modules/register/models/Register_model.php on line 42
+[11-Jul-2019 13:16:07 UTC] PHP Fatal error:  Call to undefined function iconv() in /home/shareadsco/public_html/application/modules/register/models/Register_model.php on line 42
+[11-Jul-2019 13:17:20 UTC] PHP Fatal error:  Call to undefined function iconv() in /home/shareadsco/public_html/application/modules/login/controllers/Login.php on line 506
+[11-Jul-2019 13:22:17 UTC] PHP Fatal error:  Call to undefined function iconv() in /home/shareadsco/public_html/application/modules/login/controllers/Login.php on line 519
+[11-Jul-2019 13:26:39 UTC] PHP Fatal error:  Call to undefined function iconv() in /home/shareadsco/public_html/application/modules/login/controllers/Login.php on line 521
+[11-Jul-2019 13:26:54 UTC] PHP Fatal error:  Call to undefined function iconv() in /home/shareadsco/public_html/application/modules/admin/models/Users_model.php on line 85
+[11-Jul-2019 13:41:34 UTC] PHP Fatal error:  Call to undefined function iconv() in /home/shareadsco/public_html/application/modules/login/controllers/Login.php on line 506
+[11-Jul-2019 13:41:53 UTC] PHP Fatal error:  Call to undefined function iconv() in /home/shareadsco/public_html/application/modules/login/controllers/Login.php on line 506
+[11-Jul-2019 13:42:23 UTC] PHP Fatal error:  Call to undefined function iconv() in /home/shareadsco/public_html/application/modules/login/controllers/Login.php on line 508
+[11-Jul-2019 13:43:40 UTC] PHP Fatal error:  Call to undefined function iconv() in /home/shareadsco/public_html/application/modules/login/controllers/Login.php on line 509
+[11-Jul-2019 13:43:55 UTC] PHP Fatal error:  Call to undefined function iconv() in /home/shareadsco/public_html/application/modules/login/controllers/Login.php on line 509
+[11-Jul-2019 13:48:32 UTC] PHP Fatal error:  Call to undefined function iconv() in /home/shareadsco/public_html/application/modules/register/models/Register_model.php on line 42
+[11-Jul-2019 13:49:05 UTC] PHP Fatal error:  Call to undefined function iconv() in /home/shareadsco/public_html/application/modules/register/models/Register_model.php on line 42
+[11-Jul-2019 13:56:24 UTC] PHP Fatal error:  Call to undefined function iconv() in /home/shareadsco/public_html/application/modules/admin/controllers/Listings.php on line 71
+[11-Jul-2019 13:58:09 UTC] PHP Fatal error:  Call to undefined function iconv() in /home/shareadsco/public_html/application/modules/admin/controllers/Listings.php on line 71
+[11-Jul-2019 13:58:59 UTC] PHP Fatal error:  Call to undefined function iconv() in /home/shareadsco/public_html/application/modules/admin/models/Users_model.php on line 85
+[11-Jul-2019 14:04:02 UTC] PHP Fatal error:  Call to undefined function iconv() in /home/shareadsco/public_html/application/modules/admin/controllers/Listings.php on line 71
+[11-Jul-2019 14:04:51 UTC] PHP Fatal error:  Call to undefined function exif_imagetype() in /home/shareadsco/public_html/application/libraries/Common.php on line 378
+[11-Jul-2019 14:05:01 UTC] PHP Fatal error:  Call to undefined function exif_imagetype() in /home/shareadsco/public_html/application/libraries/Common.php on line 378
+[11-Jul-2019 14:05:44 UTC] PHP Fatal error:  Call to undefined function exif_imagetype() in /home/shareadsco/public_html/application/libraries/Common.php on line 378
+[11-Jul-2019 14:13:09 UTC] PHP Fatal error:  Call to undefined function iconv() in /home/shareadsco/public_html/application/modules/dashboard/models/Dashboard_model.php on line 43
+[11-Jul-2019 14:16:59 UTC] PHP Fatal error:  Call to undefined function exif_imagetype() in /home/shareadsco/public_html/application/libraries/Common.php on line 378
+[11-Jul-2019 14:23:12 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 16128 bytes) in /home/shareadsco/public_html/application/libraries/Common.php on line 482
+[11-Jul-2019 14:23:50 UTC] PHP Fatal error:  Class 'File' not found in /home/shareadsco/public_html/application/libraries/Common.php on line 537
+[11-Jul-2019 14:24:07 UTC] PHP Fatal error:  Class 'File' not found in /home/shareadsco/public_html/application/libraries/Common.php on line 537
+[11-Jul-2019 14:24:23 UTC] PHP Fatal error:  Class 'File' not found in /home/shareadsco/public_html/application/libraries/Common.php on line 537
+[11-Jul-2019 14:24:38 UTC] PHP Fatal error:  Class 'File' not found in /home/shareadsco/public_html/application/libraries/Common.php on line 537
+[12-Jul-2019 14:58:24 UTC] PHP Fatal error:  Call to undefined function iconv() in /home/shareadsco/public_html/application/modules/dashboard/models/Dashboard_model.php on line 43
+[12-Jul-2019 14:58:31 UTC] PHP Fatal error:  Call to undefined function iconv() in /home/shareadsco/public_html/application/modules/dashboard/models/Dashboard_model.php on line 43
+[12-Jul-2019 15:02:29 UTC] PHP Fatal error:  Call to undefined function iconv() in /home/shareadsco/public_html/application/modules/dashboard/models/Dashboard_model.php on line 43
+[12-Jul-2019 15:02:36 UTC] PHP Fatal error:  Call to undefined function iconv() in /home/shareadsco/public_html/application/modules/dashboard/models/Dashboard_model.php on line 43
+[12-Jul-2019 15:03:45 UTC] PHP Fatal error:  Call to undefined function iconv() in /home/shareadsco/public_html/application/modules/dashboard/models/Dashboard_model.php on line 43
+[12-Jul-2019 15:03:51 UTC] PHP Fatal error:  Call to undefined function iconv() in /home/shareadsco/public_html/application/modules/dashboard/models/Dashboard_model.php on line 43
+[12-Jul-2019 15:04:38 UTC] PHP Fatal error:  Call to undefined function iconv() in /home/shareadsco/public_html/application/modules/dashboard/models/Dashboard_model.php on line 43
+[13-Jul-2019 11:05:06 UTC] PHP Fatal error:  Call to undefined function iconv() in /home/shareadsco/public_html/application/modules/dashboard/models/Dashboard_model.php on line 43
+[13-Jul-2019 11:06:42 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 12352 bytes) in /home/shareadsco/public_html/application/libraries/Common.php on line 482
+[15-Jul-2019 05:41:58 UTC] PHP Fatal error:  Call to undefined function iconv() in /home/shareadsco/public_html/application/modules/dashboard/models/Dashboard_model.php on line 43
+[25-Jul-2019 11:53:15 UTC] PHP Fatal error:  Cannot use object of type mysqli as array in /home/shareadsco/public_html/application/modules/admin/views/commission/listing.php on line 70
+[31-Jul-2019 05:14:35 UTC] PHP Fatal error:  Call to a member function result() on null in /home/shareadsco/public_html/application/modules/marketing/controllers/Marketing.php on line 31
+[31-Jul-2019 05:50:10 UTC] PHP Fatal error:  Call to undefined method Marketing_model::loadListings_withoutFilter() in /home/shareadsco/public_html/application/modules/marketing/controllers/Marketing.php on line 34

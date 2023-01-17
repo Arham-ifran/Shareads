@@ -1,0 +1,66 @@
+#breadcrumbs
+{
+    margin-top: -8px;
+}
+.container.main-container .sidebar + .main-content .breadcrumbs-fixed {
+    margin-left: -20px;
+}
+
+.ace-settings-container {
+    margin-top: 40px;
+}
+
+.form-group textarea[disabled], .form-group textarea:disabled,
+.form-group select[disabled], .form-group select:disabled {
+    background-color: #eee !important;
+    color: #848484 !important;
+}
+
+.form-group textarea, .form-group select {
+
+    padding: 5px 4px 6px !important;
+}
+select {
+    height: 34px;
+}
+.infobox-container
+{
+    text-align: left;
+}
+.infobox
+{
+    margin-right: 10px;
+}
+.margin-right-5
+{
+    margin-right: 5px;
+}
+.margin-left-5
+{
+    margin-left: 5px;
+}
+.margin-bottom-5
+{
+    margin-bottom: 5px;
+}
+.margin-top-5
+{
+    margin-top: 5px;
+}
+.containerDiv{      border: 2px solid #1686c7;    clear: both;    max-height: 800px;    overflow: scroll;    width: 100%;}
+
+  /* Ajax Loader Image */
+  .spinLayout {    background: none repeat scroll 0% 0% rgb(0, 0, 0);
+     height: 100%;
+     width: 100%;
+     z-index: 9999;
+     position: fixed;
+     opacity: 0.8;
+     top: 0px;
+     left:0;
+}
+.spinLayout img {    left: 50%;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+}

@@ -1,0 +1,12 @@
+body {font-family: 'Roboto', sans-serif !important;}
+.main {margin: auto;width: 660px;}
+.main .header {clear: both;display: inline-block;margin-bottom: 10px;width: 100%;text-align: center;}
+.main h1.title {border-bottom: 2px solid black;border-top: 2px solid black;clear: both;font-family: Arial;font-size: 18px;font-weight: normal;margin-bottom: 20px;padding-bottom: 5px;padding-top: 5px;text-align: center;text-transform: uppercase;width: 100%;}
+table.Left {float: left;width: 200px;}
+.clear {clear: both;}
+table.Right {float: right;width: 200px;}
+table.gridtable textarea {border: 1px solid black;color: #666666;font-family: verdana,arial,sans-serif;font-size: 12px;padding: 5px;resize: none;width: 100%;}
+table.gridtable {border-collapse: collapse;border-color: black;border-width: 1px;color: #333333;font-family: verdana,arial,sans-serif;font-size: 14px;text-align: left;}
+table.gridtable th {color: white;background-color: #25425c;border-color: black;border-style: solid;border-width: 1px;padding: 8px;}
+table.gridtable td {background-color: #FFFFFF;border-color: black;border-style: solid;border-width: 1px;padding: 8px;}
+.tbl-header{text-align: center !important;}
